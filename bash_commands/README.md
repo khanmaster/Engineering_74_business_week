@@ -1,0 +1,24 @@
+# Bash and Linux basic commands
+
+- Where am I
+```
+pwd
+```
+
+- How to create a Dir
+``` 
+mkdir name of the dir
+```
+
+- How to create a file
+```
+touch name of the file
+```
+how to change dir
+```
+cd dir_name
+- how to come out of Dir 
+``` 
+cd ..
+```
+
